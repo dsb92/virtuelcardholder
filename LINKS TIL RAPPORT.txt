@@ -1,0 +1,5 @@
+http://www.vogella.com/tutorials/AndroidSQLite/article.html
+http://code.tutsplus.com/tutorials/capture-and-crop-an-image-with-the-device-camera--mobile-11458
+http://developer.android.com/guide/topics/ui/notifiers/notifications.html
+http://stackoverflow.com/questions/4989182/converting-java-bitmap-to-byte-array
+http://developer.android.com/index.html
